@@ -1,0 +1,6 @@
+@PricingManagementApi_Nawab_HostAddress = http://localhost:5019
+
+GET {{PricingManagementApi_Nawab_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
